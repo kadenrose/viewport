@@ -305,19 +305,19 @@ img{
     #seven, #eight{
         grid-row: 3/4;
     }
-}
+
 /* --------------- END LARGE SCREEN SIZES --------------- */
 
 
 
 /* ---------- ADJUSTING RESPONSIVE IMAGE SIZE ---------- */
 /* --------------- BEGIN RESPONSIVE IMAGE ADJUST SIZES --------------- */
-    /* img{
+    img{
         width: 300px;
         max-width: 300px;
-    } */
+    }ƒ
 /* --------------- END RESPONSIVE IMAGE ADJUST SIZES --------------- */
-
+}
 
 
 /* ---------- EXTRA LARGE SCREEN STYLES ---------- */
