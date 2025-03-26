@@ -305,19 +305,22 @@ img{
     #seven, #eight{
         grid-row: 3/4;
     }
-
+}
 /* --------------- END LARGE SCREEN SIZES --------------- */
 
 
 
 /* ---------- ADJUSTING RESPONSIVE IMAGE SIZE ---------- */
 /* --------------- BEGIN RESPONSIVE IMAGE ADJUST SIZES --------------- */
+@media screen and (min-width: 1120px){
+
     img{
         width: 300px;
         max-width: 300px;
     }
-/* --------------- END RESPONSIVE IMAGE ADJUST SIZES --------------- */
 }
+/* --------------- END RESPONSIVE IMAGE ADJUST SIZES --------------- */
+
 
 
 /* ---------- EXTRA LARGE SCREEN STYLES ---------- */
